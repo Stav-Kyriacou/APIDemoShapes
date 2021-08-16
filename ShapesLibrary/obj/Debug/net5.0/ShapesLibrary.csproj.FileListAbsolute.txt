@@ -1,0 +1,12 @@
+/Users/tim/Desktop/repos/DemoAPI/ShapesLibrary/bin/Debug/net5.0/ShapesLibrary.deps.json
+/Users/tim/Desktop/repos/DemoAPI/ShapesLibrary/bin/Debug/net5.0/ShapesLibrary.dll
+/Users/tim/Desktop/repos/DemoAPI/ShapesLibrary/bin/Debug/net5.0/ref/ShapesLibrary.dll
+/Users/tim/Desktop/repos/DemoAPI/ShapesLibrary/bin/Debug/net5.0/ShapesLibrary.pdb
+/Users/tim/Desktop/repos/DemoAPI/ShapesLibrary/obj/Debug/net5.0/ShapesLibrary.csproj.AssemblyReference.cache
+/Users/tim/Desktop/repos/DemoAPI/ShapesLibrary/obj/Debug/net5.0/ShapesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tim/Desktop/repos/DemoAPI/ShapesLibrary/obj/Debug/net5.0/ShapesLibrary.AssemblyInfoInputs.cache
+/Users/tim/Desktop/repos/DemoAPI/ShapesLibrary/obj/Debug/net5.0/ShapesLibrary.AssemblyInfo.cs
+/Users/tim/Desktop/repos/DemoAPI/ShapesLibrary/obj/Debug/net5.0/ShapesLibrary.csproj.CoreCompileInputs.cache
+/Users/tim/Desktop/repos/DemoAPI/ShapesLibrary/obj/Debug/net5.0/ShapesLibrary.dll
+/Users/tim/Desktop/repos/DemoAPI/ShapesLibrary/obj/Debug/net5.0/ref/ShapesLibrary.dll
+/Users/tim/Desktop/repos/DemoAPI/ShapesLibrary/obj/Debug/net5.0/ShapesLibrary.pdb
