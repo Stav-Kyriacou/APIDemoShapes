@@ -10,3 +10,15 @@
 /Users/tim/Desktop/repos/DemoAPI/ShapesLibrary/obj/Debug/net5.0/ShapesLibrary.dll
 /Users/tim/Desktop/repos/DemoAPI/ShapesLibrary/obj/Debug/net5.0/ref/ShapesLibrary.dll
 /Users/tim/Desktop/repos/DemoAPI/ShapesLibrary/obj/Debug/net5.0/ShapesLibrary.pdb
+F:\VSProjects\Programming\APIDemoShapes\ShapesLibrary\bin\Debug\net5.0\ShapesLibrary.deps.json
+F:\VSProjects\Programming\APIDemoShapes\ShapesLibrary\bin\Debug\net5.0\ShapesLibrary.dll
+F:\VSProjects\Programming\APIDemoShapes\ShapesLibrary\bin\Debug\net5.0\ref\ShapesLibrary.dll
+F:\VSProjects\Programming\APIDemoShapes\ShapesLibrary\bin\Debug\net5.0\ShapesLibrary.pdb
+F:\VSProjects\Programming\APIDemoShapes\ShapesLibrary\obj\Debug\net5.0\ShapesLibrary.csprojAssemblyReference.cache
+F:\VSProjects\Programming\APIDemoShapes\ShapesLibrary\obj\Debug\net5.0\ShapesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\VSProjects\Programming\APIDemoShapes\ShapesLibrary\obj\Debug\net5.0\ShapesLibrary.AssemblyInfoInputs.cache
+F:\VSProjects\Programming\APIDemoShapes\ShapesLibrary\obj\Debug\net5.0\ShapesLibrary.AssemblyInfo.cs
+F:\VSProjects\Programming\APIDemoShapes\ShapesLibrary\obj\Debug\net5.0\ShapesLibrary.csproj.CoreCompileInputs.cache
+F:\VSProjects\Programming\APIDemoShapes\ShapesLibrary\obj\Debug\net5.0\ShapesLibrary.dll
+F:\VSProjects\Programming\APIDemoShapes\ShapesLibrary\obj\Debug\net5.0\ref\ShapesLibrary.dll
+F:\VSProjects\Programming\APIDemoShapes\ShapesLibrary\obj\Debug\net5.0\ShapesLibrary.pdb

@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tim/Desktop/repos/DemoAPI/ShapesTests/ShapesTests.csproj": {}
+    "F:\\VSProjects\\Programming\\APIDemoShapes\\ShapesTests\\ShapesTests.csproj": {}
   },
   "projects": {
-    "/Users/tim/Desktop/repos/DemoAPI/ShapesLibrary/ShapesLibrary.csproj": {
+    "F:\\VSProjects\\Programming\\APIDemoShapes\\ShapesLibrary\\ShapesLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tim/Desktop/repos/DemoAPI/ShapesLibrary/ShapesLibrary.csproj",
+        "projectUniqueName": "F:\\VSProjects\\Programming\\APIDemoShapes\\ShapesLibrary\\ShapesLibrary.csproj",
         "projectName": "ShapesLibrary",
-        "projectPath": "/Users/tim/Desktop/repos/DemoAPI/ShapesLibrary/ShapesLibrary.csproj",
-        "packagesPath": "/Users/tim/.nuget/packages/",
-        "outputPath": "/Users/tim/Desktop/repos/DemoAPI/ShapesLibrary/obj/",
+        "projectPath": "F:\\VSProjects\\Programming\\APIDemoShapes\\ShapesLibrary\\ShapesLibrary.csproj",
+        "packagesPath": "C:\\Users\\Stavros\\.nuget\\packages\\",
+        "outputPath": "F:\\VSProjects\\Programming\\APIDemoShapes\\ShapesLibrary\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/tim/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Stavros\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,21 +55,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/tim/Desktop/repos/DemoAPI/ShapesTests/ShapesTests.csproj": {
+    "F:\\VSProjects\\Programming\\APIDemoShapes\\ShapesTests\\ShapesTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tim/Desktop/repos/DemoAPI/ShapesTests/ShapesTests.csproj",
+        "projectUniqueName": "F:\\VSProjects\\Programming\\APIDemoShapes\\ShapesTests\\ShapesTests.csproj",
         "projectName": "ShapesTests",
-        "projectPath": "/Users/tim/Desktop/repos/DemoAPI/ShapesTests/ShapesTests.csproj",
-        "packagesPath": "/Users/tim/.nuget/packages/",
-        "outputPath": "/Users/tim/Desktop/repos/DemoAPI/ShapesTests/obj/",
+        "projectPath": "F:\\VSProjects\\Programming\\APIDemoShapes\\ShapesTests\\ShapesTests.csproj",
+        "packagesPath": "C:\\Users\\Stavros\\.nuget\\packages\\",
+        "outputPath": "F:\\VSProjects\\Programming\\APIDemoShapes\\ShapesTests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/tim/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Stavros\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -78,8 +84,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/tim/Desktop/repos/DemoAPI/ShapesLibrary/ShapesLibrary.csproj": {
-                "projectPath": "/Users/tim/Desktop/repos/DemoAPI/ShapesLibrary/ShapesLibrary.csproj"
+              "F:\\VSProjects\\Programming\\APIDemoShapes\\ShapesLibrary\\ShapesLibrary.csproj": {
+                "projectPath": "F:\\VSProjects\\Programming\\APIDemoShapes\\ShapesLibrary\\ShapesLibrary.csproj"
               }
             }
           }
@@ -130,7 +136,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
