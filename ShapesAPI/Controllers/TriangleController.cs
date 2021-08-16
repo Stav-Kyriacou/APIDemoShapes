@@ -66,16 +66,6 @@ namespace ShapesAPI.Controllers
         [HttpDelete]
         public string Delete([FromBody]Triangle tr)
         {
-           // SquaresData.Remove(sq);
-
-            /*
-            foreach(var s in SquaresData){
-                if (s.ID == sq.ID){
-                    int index = SquaresData.IndexOf(s);
-                    SquaresData.RemoveAt(index);
-                }
-            }
-            */
             var TD = new List<Triangle>();
             foreach(var t in TriangleData){
                 if (t.ID != tr.ID){
